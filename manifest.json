@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Leans the text over as the audio gets loud — quiet passages sit upright, peaks shear it back 15°.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
